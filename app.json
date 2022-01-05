@@ -9,7 +9,7 @@ quotes = quotesnya.result.quotes
        stst = await kurr.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
        menu = `╭─❒ 「 Bot Info 」 ❒
-🏴‍☠️ _Creator : *SANZY YT*
+🏴‍☠️ _Creator : *Dani official*
 🏴‍☠️ _Battery : *35*_
 🏴‍☠️ _Battery : ${baterai.battery}_
 🏴‍☠️ _Mode : ${publik ? 'Public' : 'Self'}_
@@ -102,7 +102,7 @@ quotes = quotesnya.result.quotes
        stst = await kurr.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
        menu = `╭─❒ 「 Bot Info 」 ❒
-🏴‍☠️ _Creator : *SanzyYT*
+🏴‍☠️ _Creator : *Dani official*
 🏴‍☠️ _Battery : *35*_
 🏴‍☠️ _Battery : ${baterai.battery}_
 🏴‍☠️ _Mode : ${publik ? 'Public' : 'Self'}_
@@ -287,7 +287,7 @@ quotes = quotesnya.result.quotes
        stst = await kurr.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
        menu = `╭─❒ 「 Bot Info 」 ❒
-🏴‍☠️ _Creator : *SANZY YT*
+🏴‍☠️ _Creator : *Dani official*
 🏴‍☠️ _Battery : *35*_
 🏴‍☠️ _Battery : ${baterai.battery}_
 🏴‍☠️ _Mode : ${publik ? 'Public' : 'Self'}_
@@ -417,7 +417,7 @@ quotes = quotesnya.result.quotes
        stst = await kurr.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
        menu = `╭─❒ 「 Bot Info 」 ❒
-🏴‍☠️ _Creator : *SANZY YT*
+🏴‍☠️ _Creator : *Dani official*
 🏴‍☠️ _Battery : *35*_
 🏴‍☠️ _Battery : ${baterai.battery}_
 🏴‍☠️ _Mode : ${publik ? 'Public' : 'Self'}_
@@ -521,7 +521,7 @@ quotes = quotesnya.result.quotes
        stst = await kurr.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
        menu = `╭─❒ 「 Bot Info 」 ❒
-🏴‍☠️ _Creator : *SANZY YT*
+🏴‍☠️ _Creator : *Dani official*
 🏴‍☠️ _Battery : *35*_
 🏴‍☠️ _Battery : ${baterai.battery}_
 🏴‍☠️ _Mode : ${publik ? 'Public' : 'Self'}_
@@ -640,7 +640,7 @@ quotes = quotesnya.result.quotes
        stst = await kurr.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
        menu = `╭─❒ 「 Bot Info 」 ❒
-🏴‍☠️ _Creator : *SANZY YT*
+🏴‍☠️ _Creator : *Dani official*
 🏴‍☠️ _Battery : *35*_
 🏴‍☠️ _Battery : ${baterai.battery}_
 🏴‍☠️ _Mode : ${publik ? 'Public' : 'Self'}_
@@ -721,7 +721,7 @@ quotes = quotesnya.result.quotes
        stst = await kurr.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
        menu = `╭─❒ 「 Bot Info 」 ❒
-🏴‍☠️ _Creator : *SANZY YT*
+🏴‍☠️ _Creator : *Dani official*
 🏴‍☠️ _Battery : *35*_
 🏴‍☠️ _Battery : ${baterai.battery}_
 🏴‍☠️ _Mode : ${publik ? 'Public' : 'Self'}_
@@ -871,7 +871,7 @@ quotes = quotesnya.result.quotes
        stst = await kurr.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
        menu = `╭─❒ 「 Bot Info 」 ❒
-🏴‍☠️ _Creator : *SANZY YT*
+🏴‍☠️ _Creator : *Dani official*
 🏴‍☠️ _Battery : *35*_
 🏴‍☠️ _Battery : ${baterai.battery}_
 🏴‍☠️ _Mode : ${publik ? 'Public' : 'Self'}_
@@ -955,7 +955,7 @@ quotes = quotesnya.result.quotes
        stst = await kurr.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
        menu = `╭─❒ 「 Bot Info 」 ❒
-🏴‍☠️ _Creator : *SANZY YT*
+🏴‍☠️ _Creator : *Dani official*
 🏴‍☠️ _Battery : *35*_
 🏴‍☠️ _Battery : ${baterai.battery}_
 🏴‍☠️ _Mode : ${publik ? 'Public' : 'Self'}_
@@ -1044,7 +1044,7 @@ quotes = quotesnya.result.quotes
        stst = await kurr.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
        menu = `╭─❒ 「 Bot Info 」 ❒
-🏴‍☠️ _Creator : *SANZY YT*
+🏴‍☠️ _Creator : *Dani official*
 🏴‍☠️ _Battery : *35*_
 🏴‍☠️ _Battery : ${baterai.battery}_
 🏴‍☠️ _Mode : ${publik ? 'Public' : 'Self'}_
@@ -1143,7 +1143,7 @@ quotes = quotesnya.result.quotes
        stst = await kurr.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
        menu = `╭─❒ 「 Bot Info 」 ❒
-🏴‍☠️ _Creator : *SANZY YT*
+🏴‍☠️ _Creator : *Dani official*
 🏴‍☠️ _Battery : *35*_
 🏴‍☠️ _Battery : ${baterai.battery}_
 🏴‍☠️ _Mode : ${publik ? 'Public' : 'Self'}_
@@ -1245,7 +1245,7 @@ quotes = quotesnya.result.quotes
        stst = await kurr.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
        menu = `╭─❒ 「 Bot Info 」 ❒
-🏴‍☠️ _Creator : *SANZY YT*
+🏴‍☠️ _Creator : *Dani official*
 🏴‍☠️ _Battery : *35*_
 🏴‍☠️ _Battery : ${baterai.battery}_
 🏴‍☠️ _Mode : ${publik ? 'Public' : 'Self'}_
